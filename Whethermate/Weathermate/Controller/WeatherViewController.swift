@@ -15,7 +15,7 @@ import SwiftyJSON
 class WeatherViewController: UIViewController, CLLocationManagerDelegate, CustomLocationDelegate {
     
     let weatherUrl = "http://api.openweathermap.org/data/2.5/weather"
-    let weatherApiKey = "3f956eeb7a5f659XXXXXXXXXXXXXXX"
+    let weatherApiKey = "3f956eeb7a5f659bbace12cde348f623"
     
     @IBOutlet weak var lblTemperature: UILabel!
     @IBOutlet weak var imgWeather: UIImageView!

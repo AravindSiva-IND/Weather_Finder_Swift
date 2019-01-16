@@ -56,7 +56,7 @@
 		42CA815A219956B000FDC563 = {
 			isa = PBXGroup;
 			children = (
-				42CA8165219956B000FDC563 /* Whethermate */,
+				42CA8165219956B000FDC563 /* Weathermate */,
 				42CA8164219956B000FDC563 /* Products */,
 				042F8556BA5ED0DA322B12C3 /* Pods */,
 				4D6C90E5C2037CDEBB59E406 /* Frameworks */,
@@ -71,7 +71,7 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		42CA8165219956B000FDC563 /* Whethermate */ = {
+		42CA8165219956B000FDC563 /* Weathermate */ = {
 			isa = PBXGroup;
 			children = (
 				42CA817A2199570B00FDC563 /* Controller */,
@@ -81,7 +81,7 @@
 				42CA816F219956B100FDC563 /* LaunchScreen.storyboard */,
 				42CA8172219956B100FDC563 /* Info.plist */,
 			);
-			path = Whethermate;
+			path = Weathermate;
 			sourceTree = "<group>";
 		};
 		42CA81782199570000FDC563 /* Model */ = {
