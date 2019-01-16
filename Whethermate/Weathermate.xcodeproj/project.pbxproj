@@ -18,7 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		42CA8163219956B000FDC563 /* Whethermate.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Whethermate.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		42CA8163219956B000FDC563 /* Weathermate.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Weathermate.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		42CA8166219956B000FDC563 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		42CA8168219956B000FDC563 /* WeatherViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeatherViewController.swift; sourceTree = "<group>"; };
 		42CA816B219956B000FDC563 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -66,7 +66,7 @@
 		42CA8164219956B000FDC563 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				42CA8163219956B000FDC563 /* Whethermate.app */,
+				42CA8163219956B000FDC563 /* Weathermate.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -121,9 +121,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		42CA8162219956B000FDC563 /* Whethermate */ = {
+		42CA8162219956B000FDC563 /* Weathermate */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 42CA8175219956B100FDC563 /* Build configuration list for PBXNativeTarget "Whethermate" */;
+			buildConfigurationList = 42CA8175219956B100FDC563 /* Build configuration list for PBXNativeTarget "Weathermate" */;
 			buildPhases = (
 				2BE7D1E9FDD9D2D181F2F9E6 /* [CP] Check Pods Manifest.lock */,
 				42CA815F219956B000FDC563 /* Sources */,
@@ -135,9 +135,9 @@
 			);
 			dependencies = (
 			);
-			name = Whethermate;
+			name = Weathermate;
 			productName = Whethermate;
-			productReference = 42CA8163219956B000FDC563 /* Whethermate.app */;
+			productReference = 42CA8163219956B000FDC563 /* Weathermate.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -155,7 +155,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 42CA815E219956B000FDC563 /* Build configuration list for PBXProject "Whethermate" */;
+			buildConfigurationList = 42CA815E219956B000FDC563 /* Build configuration list for PBXProject "Weathermate" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -168,7 +168,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				42CA8162219956B000FDC563 /* Whethermate */,
+				42CA8162219956B000FDC563 /* Weathermate */,
 			);
 		};
 /* End PBXProject section */
@@ -391,7 +391,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.avasoft.Whethermate;
+				PRODUCT_BUNDLE_IDENTIFIER = com.avasoft.Weathermate;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -410,7 +410,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.avasoft.Whethermate;
+				PRODUCT_BUNDLE_IDENTIFIER = com.avasoft.Weathermate;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -420,7 +420,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		42CA815E219956B000FDC563 /* Build configuration list for PBXProject "Whethermate" */ = {
+		42CA815E219956B000FDC563 /* Build configuration list for PBXProject "Weathermate" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				42CA8173219956B100FDC563 /* Debug */,
@@ -429,7 +429,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		42CA8175219956B100FDC563 /* Build configuration list for PBXNativeTarget "Whethermate" */ = {
+		42CA8175219956B100FDC563 /* Build configuration list for PBXNativeTarget "Weathermate" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				42CA8176219956B100FDC563 /* Debug */,
